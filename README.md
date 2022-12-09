@@ -9,6 +9,6 @@ Run cal_setup.py\
 ALSO: doesn't work on Replit because Replit isn't locally run.\
 \
 Dependancies:\
-customtkinter (pip install customtkinter)\
-google calendar API (pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib)\
+CustomTKinter (pip install customtkinter)\
+Google Calendar API (pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib)\
 And I believe the rest are preinstalled to Python :)
