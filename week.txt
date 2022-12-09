@@ -1,0 +1,127 @@
+Mon, 9 Jan 2023 - Fri, 13 Jan 2023
+Mo
+09:0009:59
+Mathematics
+12C/Ma1
+Mr J Hill
+117
+10:0010:59
+Computer Sci
+12D/Cs1
+Mr R Martin
+025
+11:2012:19
+Computer Sci
+12D/Cs1
+Mr A Williams
+027
+12:2013:19
+Further Maths
+12B/Fm1
+Ms I Rich
+096
+Tu
+09:0009:59
+Mathematics
+12C/Ma1
+Ms H Birleson
+087
+11:2012:19
+Computer Sci
+12D/Cs1
+Mr R Martin
+025
+12:2013:19
+Computer Sci
+12D/Cs1
+Mr R Martin
+025
+14:0515:04
+Further Maths
+12B/Fm1
+Ms I Rich
+011
+15:0516:04
+Further Maths
+12B/Fm1
+Ms I Rich
+011
+We
+08:3509:00
+Ms H Birleson
+087
+09:0009:59
+Physics
+12A/Ph1
+Mr J Barnes
+065
+10:0010:59
+Physics
+12A/Ph1
+Mr R Posey
+068
+11:2012:19
+Mathematics
+12C/Ma1
+Ms H Birleson
+087
+12:2013:19
+Further Maths
+12B/Fm1
+Mr M Spicer
+118
+15:0516:04
+Mathematics
+12C/Ma1
+Mr J Hill
+117
+Th
+08:3509:00
+Ms H Birleson
+087
+09:0009:59
+Mathematics
+12C/Ma1
+Ms S Lechmere
+086
+10:0010:59
+Physics
+12A/Ph1
+Mr J Barnes
+065
+12:2013:19
+Mathematics
+12C/Ma1
+Ms H Birleson
+087
+14:0515:04
+Physics
+12A/Ph1
+Mr J Barnes
+065
+15:0516:04
+Computer Sci
+12D/Cs1
+Mr A Williams
+027
+Fr
+09:0009:59
+Further Maths
+12B/Fm1
+Mr M Spicer
+118
+10:0010:59
+Physics
+12A/Ph1
+Miss N Kaptein
+097
+11:2012:19
+Computer Sci
+12D/Cs1
+Mr A Williams
+027
+12:2013:19
+Further Maths
+12B/Fm1
+Mr M Spicer
+115
