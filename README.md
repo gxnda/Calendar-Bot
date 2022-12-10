@@ -5,7 +5,7 @@ WHEN LAUNCHING ON A NEW DEVICE\
 Fetch credentials from: https://console.cloud.google.com/apis/credentials \
 - You will have to create a project and enable Google Calendar API\
 \
-Run cal_setup.py\
+Run main.py\
 ALSO: doesn't work on Replit because Replit isn't locally run.\
 \
 Dependancies:\
